@@ -1,0 +1,54 @@
+table {
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    width: 1000px;
+    height: 200px;
+    border-collapse: collapse;
+    background: white;
+}
+th, td {
+    font-family: Helvetica;
+    text-align: center;
+    border: 3px solid black;
+}
+h1 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(218, 0, 0);
+    padding: 0px;
+}
+h2, h3 {
+    text-align: center;
+}
+th{
+    font-size: 20px;
+}
+body {
+    background: whitesmoke;
+    height: 100vh;
+}
+a {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 32px;
+    text-align: center;
+    color: rgb(0, 28, 105);
+    padding: 0px;
+}
+.tableHeads{
+    font-size: 32px;
+    text-align: center;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .btn{
+    font-size: 20px;
+  }
+  .address{
+    font-size: 22px;
+    text-align: center;
+  }
